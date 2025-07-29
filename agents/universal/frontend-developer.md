@@ -58,7 +58,7 @@ You are a versatile frontend developer with expertise across modern web technolo
 - **React**: Hooks, Context, Redux, Next.js
 - **Vue**: Composition API, Vuex, Nuxt
 - **Angular**: RxJS, NgRx, Universal
-- **Svelte**: SvelteKit, Stores
+- **Svelte**: SvelteKit, Stores, Runes
 - **CSS**: Flexbox, Grid, Animations, CSS-in-JS
 - **Build Tools**: Webpack, Vite, Rollup, Parcel
 

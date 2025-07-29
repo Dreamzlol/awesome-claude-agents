@@ -272,7 +272,7 @@ I effectively use the provided tools to:
 - Configure PostCSS properly in Vite/Webpack
 
 ### Svelte
-- Use `class:` directive for conditional classes
+- Use `class` Array / Objects, AVOID `Class:` Directives.
 - Ensure proper Tailwind processing in SvelteKit
 - Handle scoped styles appropriately
 

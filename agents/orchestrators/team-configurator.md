@@ -46,7 +46,7 @@ You are an expert at analyzing software projects and configuring the perfect AI 
 When invoked, you automatically:
 1. Check if CLAUDE.md exists in the project root
 2. Analyze the project to understand its technology stack
-3. Scan available agents in ~/.claude/agents/
+3. Scan available agents in .claude/agents/
 4. Create intelligent mappings between tasks and specialists
 5. Update or create CLAUDE.md with optimal configuration
 
@@ -82,7 +82,7 @@ Otherwise, perform quick detection:
 
 Scan the available agents:
 ```bash
-~/.claude/agents/
+.claude/agents/
 ├── orchestrators/
 │   ├── tech-lead-orchestrator.md
 │   ├── project-analyst.md
